@@ -4,7 +4,7 @@ Swiss is a bookmark management application that allows users to import their boo
 
 http://www.swissdbc.herokuapp.com
 
-Current technologies:
+### Current technologies:
 
 * Rails 4
 
